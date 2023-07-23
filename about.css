@@ -1,0 +1,12 @@
+.forms{
+    padding: 12px;
+    margin: 7px;
+    color: rgb(2, 20, 14);
+    justify-content: center;
+    display: flex;
+  }
+  h1{
+    justify-content: center;
+    display: flex;
+    color: blue;
+  }
